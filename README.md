@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitroy25/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/arpitroy25/DSA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/arpitroy25/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/arpitroy25/DSA/tree/master/0125-valid-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arpitroy25/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
