@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitroy25/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/arpitroy25/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/arpitroy25/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/arpitroy25/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/arpitroy25/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/arpitroy25/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/arpitroy25/DSA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/arpitroy25/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/arpitroy25/DSA/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/arpitroy25/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arpitroy25/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Trie
 |  |
@@ -104,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitroy25/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/arpitroy25/DSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
