@@ -17,7 +17,7 @@ public class Solution {
             return null;
         }
 
-        // Step 2: Find cycle starting point
+        
         slow = head;
 
         while (slow != fast) {
