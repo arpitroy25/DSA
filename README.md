@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/arpitroy25/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/arpitroy25/DSA/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/arpitroy25/DSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/arpitroy25/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arpitroy25/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/arpitroy25/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpitroy25/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arpitroy25/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arpitroy25/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/arpitroy25/DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/arpitroy25/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arpitroy25/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/arpitroy25/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/arpitroy25/DSA/tree/master/0125-valid-palindrome) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/arpitroy25/DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/arpitroy25/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arpitroy25/DSA/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/arpitroy25/DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/arpitroy25/DSA/tree/master/0905-sort-array-by-parity) |
@@ -223,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/arpitroy25/DSA/tree/master/0287-find-the-duplicate-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/arpitroy25/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/arpitroy25/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
