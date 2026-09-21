@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/arpitroy25/DSA/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/arpitroy25/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/arpitroy25/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/arpitroy25/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/arpitroy25/DSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/arpitroy25/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arpitroy25/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arpitroy25/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/arpitroy25/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/arpitroy25/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/arpitroy25/DSA/tree/master/0234-palindrome-linked-list) |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/arpitroy25/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/arpitroy25/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
