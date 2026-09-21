@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/arpitroy25/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/arpitroy25/DSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/arpitroy25/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arpitroy25/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arpitroy25/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arpitroy25/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Trie
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/arpitroy25/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/arpitroy25/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/arpitroy25/DSA/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arpitroy25/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
