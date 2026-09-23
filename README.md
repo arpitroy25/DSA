@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/arpitroy25/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/arpitroy25/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/arpitroy25/DSA/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/arpitroy25/DSA/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/arpitroy25/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/arpitroy25/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/arpitroy25/DSA/tree/master/0905-sort-array-by-parity) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arpitroy25/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/arpitroy25/DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/arpitroy25/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/arpitroy25/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/arpitroy25/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/arpitroy25/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/arpitroy25/DSA/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/arpitroy25/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/arpitroy25/DSA/tree/master/0525-contiguous-array) |
 ## Linked List
 |  |
 | ------- |
