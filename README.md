@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/arpitroy25/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/arpitroy25/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/arpitroy25/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0327-count-of-range-sum](https://github.com/arpitroy25/DSA/tree/master/0327-count-of-range-sum) |
 | [0414-third-maximum-number](https://github.com/arpitroy25/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/arpitroy25/DSA/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/arpitroy25/DSA/tree/master/0525-contiguous-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpitroy25/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/arpitroy25/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/arpitroy25/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0327-count-of-range-sum](https://github.com/arpitroy25/DSA/tree/master/0327-count-of-range-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/arpitroy25/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arpitroy25/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/arpitroy25/DSA/tree/master/0053-maximum-subarray) |
+| [0327-count-of-range-sum](https://github.com/arpitroy25/DSA/tree/master/0327-count-of-range-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/arpitroy25/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Minimax
 |  |
@@ -279,4 +282,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/arpitroy25/DSA/tree/master/0155-min-stack) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/arpitroy25/DSA/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/arpitroy25/DSA/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/arpitroy25/DSA/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/arpitroy25/DSA/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/arpitroy25/DSA/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
