@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/arpitroy25/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/arpitroy25/DSA/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/arpitroy25/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## String
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/arpitroy25/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arpitroy25/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/arpitroy25/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2390-removing-stars-from-a-string](https://github.com/arpitroy25/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/arpitroy25/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/arpitroy25/DSA/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arpitroy25/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/arpitroy25/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
