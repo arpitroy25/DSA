@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/arpitroy25/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/arpitroy25/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/arpitroy25/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/arpitroy25/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/arpitroy25/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/arpitroy25/DSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/arpitroy25/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/arpitroy25/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/arpitroy25/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/arpitroy25/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/arpitroy25/DSA/tree/master/0152-maximum-product-subarray) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arpitroy25/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/arpitroy25/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/arpitroy25/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Design
 |  |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/arpitroy25/DSA/tree/master/0327-count-of-range-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/arpitroy25/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
