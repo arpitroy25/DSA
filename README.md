@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/arpitroy25/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/arpitroy25/DSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/arpitroy25/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/arpitroy25/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arpitroy25/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arpitroy25/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arpitroy25/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arpitroy25/DSA/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/arpitroy25/DSA/tree/master/0678-valid-parenthesis-string) |
 | [2029-stone-game-ix](https://github.com/arpitroy25/DSA/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/arpitroy25/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/arpitroy25/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/arpitroy25/DSA/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/arpitroy25/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arpitroy25/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/arpitroy25/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/arpitroy25/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/arpitroy25/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/arpitroy25/DSA/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/arpitroy25/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/arpitroy25/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/arpitroy25/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/arpitroy25/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arpitroy25/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/arpitroy25/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/arpitroy25/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/arpitroy25/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
