@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/arpitroy25/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/arpitroy25/DSA/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/arpitroy25/DSA/tree/master/0525-contiguous-array) |
+| [0605-can-place-flowers](https://github.com/arpitroy25/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/arpitroy25/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/arpitroy25/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/arpitroy25/DSA/tree/master/0905-sort-array-by-parity) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arpitroy25/DSA/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/arpitroy25/DSA/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/arpitroy25/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arpitroy25/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arpitroy25/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
